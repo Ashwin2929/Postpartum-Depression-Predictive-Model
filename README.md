@@ -1,2 +1,4 @@
-# Postpartum-Depression-Predictive-Model
-Predictive Modelling for Early Detection of Postpartum Depression
+# Postpartum Depression Predictive Model
+A comprehensive study on the use of predictive modeling to identify postpartum depression (PPD) early in new mothers. Utilizing a dataset from a questionnaire with 10 relevant attributes, the study employs several machine learning algorithms to build a binary classification model. The best-performing models include Support Vector Classification (SVC), XGBoost, and Random Forest, each achieving high accuracy rates around 95-96%.
+
+Key findings indicate significant predictors of PPD include emotional irritability, problems with concentration or decision-making, changes in appetite, feelings of guilt, issues in bonding with the baby, and a history of suicide attempts. These insights demonstrate the potential of machine learning in aiding early diagnosis and targeted interventions for PPD, suggesting a promising avenue for enhancing maternal mental health care through predictive analytics.
